@@ -2,7 +2,7 @@
 	"name": "happy-birthday-orly",
 	"version": "1.0.0",
 	"description": "Simple HTML5 game created for the birthday of my beloved girlfriend Orly.",
-	"author": "alexeychikk",
+	"author": "xorai-jitul",
 	"main": "src/game.ts",
 	"repository": {
 		"type": "git",
